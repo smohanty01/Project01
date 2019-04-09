@@ -1,7 +1,5 @@
 ##Git Learning Project
 First Example
-<<<<<<< HEAD
 Learning git push/pull conflicts
-=======
 Resolving git push conlicts
->>>>>>> ac5c4b91e6e8ec64609e74c70908162ed068e054
+Added by 'santosh' in remote

@@ -4,3 +4,4 @@ Learning git push/pull conflicts
 Resolving git push conlicts
 Added in local
 Added by 'santosh' in remote
+Added in branch devloper2

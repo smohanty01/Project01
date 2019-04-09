@@ -1,2 +1,3 @@
 ##Git Learning Project
 First Example
+Resolving git push conlicts
